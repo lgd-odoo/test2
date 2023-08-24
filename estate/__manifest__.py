@@ -2,7 +2,7 @@
     'name': "Estate",
     'version': '1.0',
     'depends': ['base'],
-    'author': "lgd_odoo",
+    'author': "lgd-odoo",
     'category': 'Category',
     'description': """
     Description text
